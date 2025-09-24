@@ -25,7 +25,7 @@ The aim of this project is to analyse Netflix movies and TV shows to uncover ins
    Categorize Vote_Average into labels like popular, average, below_avg, not_popular.
    Cast categorical columns properly.
 * Exploratory Data Analysis (EDA)
-* Visualization  <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/graph.PNG">Graph</a>
+* <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/graph.PNG">Visualization a>
 
 ## Insights
 * Planning improved efficiency.
@@ -39,6 +39,5 @@ The aim of this project is to analyse Netflix movies and TV shows to uncover ins
 •	The platform prioritizes diverse but mainstream genres to attract wide audiences.
 •	Ratings distribution suggests overall moderate-to-good quality content.
 •	Continued focus on trending genres can enhance user engagement.
-
 
 <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/Netflix%20movies%20project%20code.ipynb">Final-Project</a>
