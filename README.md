@@ -25,7 +25,7 @@ The aim of this project is to analyse Netflix movies and TV shows to uncover ins
    Categorize Vote_Average into labels like popular, average, below_avg, not_popular.
    Cast categorical columns properly.
 * Exploratory Data Analysis (EDA)
-* <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/graph.PNG">Visualization a>
+* <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/graph.PNG">Visualization
 
 ## Insights
 * Planning improved efficiency.
