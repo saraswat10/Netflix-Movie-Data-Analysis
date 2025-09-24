@@ -4,7 +4,7 @@
 The aim of this project is to analyse Netflix movies and TV shows to uncover insights into content trends, genres, and ratings. It seeks to visualize patterns and provide a deeper understanding of the platform’s catalog for informed decision-making.
 
 ## Dataset Used
-- <a herf="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/movies%20data.csv">Dataset</a>
+<a herf="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/movies%20data.csv">Dataset</a>
 
 ## Questions
 1)	What is the most frequent genre of movies released on Netflix?
@@ -24,8 +24,8 @@ The aim of this project is to analyse Netflix movies and TV shows to uncover ins
 * Feature Engineering
    Categorize Vote_Average into labels like popular, average, below_avg, not_popular.
    Cast categorical columns properly.
-*Exploratory Data Analysis (EDA)
-*Visualization - <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/graph.PNG)">Graph</a>
+* Exploratory Data Analysis (EDA)
+* Visualization  <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/graph.PNG)">Graph</a>
 
 ## Insights
 *Planning improved efficiency.
